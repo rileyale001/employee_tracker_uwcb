@@ -1,0 +1,26 @@
+{
+  "name": "employee_trackerdb",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.1",
+    "mysql": "github:mysqljs/mysql",
+    "separator": "^0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileyale001/employee_tracker_uwcb.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rileyale001/employee_tracker_uwcb/issues"
+  },
+  "homepage": "https://github.com/rileyale001/employee_tracker_uwcb#readme"
+}
