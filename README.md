@@ -26,4 +26,4 @@ So that I can organize and plan my business
 ## Links
 
 [Github](https://github.com/rileyale001/employee_tracker_uwcb)
-[Website video](https://youtu.be/nzJrSZQfG4I)
+[Website video](https://www.youtube.com/watch?v=GVABngYzO60)
