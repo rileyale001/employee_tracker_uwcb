@@ -23,14 +23,7 @@ So that I can organize and plan my business
 
   * Update employee roles
 
-## Screenshots
-
-![Screenshot](img/hw11ss.PNG)
-![Screenshot](img/hw11ss1.PNG)
-![Screenshot](img/hw11ss2.PNG)
-![Screenshot](img/hw11ss3.PNG)
-
 ## Links
 
-[Github]()
+[Github](https://github.com/rileyale001/employee_tracker_uwcb)
 [Website video](https://youtu.be/nzJrSZQfG4I)

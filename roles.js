@@ -1,5 +1,6 @@
 const {inquirer, database, separator, wait, displayTable } = require('./global')
 const employees = require('./employees')
+// array for options to prompted
 const options = [
   {name: '\x1b[94mView all Employees\x1b[0m', value: viewEmployees },
   {name: '\x1b[92mAdd an Employee\x1b[0m', value: addEmployee },
@@ -9,7 +10,7 @@ const options = [
   {name: '\x1b[94mRemove\x1b[0m', value: remove},
   separator,
   {name: 'Back', value: null}]
-
+// function to display department called in from database and create id for records
 async function display(department) {
   const records = await database.getDepartmentRoles(department.id)
   if (records.length > 0 )
